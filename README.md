@@ -1,24 +1,4 @@
-# solidity-frontend
+# Solidity Frontend
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Dies is a Vue.js-Frontend, um den Solidity-Bot zu steuern und dessen Aktionen anzuzeigen.  
+Leg los, und bring a bissal Blockchain-Action in dein Leben!
